@@ -1,7 +1,6 @@
 # Optimus Cache Prime
 
-![image](http://static.pmylund.com/blog/content/optimus-prime-150x150.jpg "Optimus Prime")Optimus
-Cache Prime (OCP) is a smart cache preloader for websites with XML
+Optimus Cache Prime (OCP) is a smart cache preloader for websites with XML
 sitemaps. It crawls all URLs in a given sitemap so the web server builds
 cached versions of the pages before visitors or search engine spiders
 arrive.
